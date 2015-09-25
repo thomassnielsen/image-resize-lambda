@@ -1,3 +1,4 @@
+// Based on:
 // http://stackoverflow.com/questions/30876345/in-amazon-lambda-resizing-multiple-thumbnail-sizes-in-parallel-async-throws-err
 
 // dependencies
