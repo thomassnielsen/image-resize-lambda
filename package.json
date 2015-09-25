@@ -1,0 +1,9 @@
+{
+  "name": "image-resize",
+  "dependencies": {
+    "async" : "latest",
+    "gm" : "latest",
+    "util" : "latest",
+    "aws-sdk" : "latest"
+  }
+}
